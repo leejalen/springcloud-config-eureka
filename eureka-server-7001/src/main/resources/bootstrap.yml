@@ -1,0 +1,14 @@
+#应用设置
+spring:
+  cloud:
+    config:
+      #读取的分支
+      label: master
+      #配置文件名称
+      name: eureka7001
+      #配置文件名称后缀
+      profile: dev
+      #配置中心地址
+      uri: http://configcenter.com:3344
+#        discovery:
+#          service-id: cloud-config-center

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-7001/eureka-server-7001.iml" filepath="$PROJECT_DIR$/eureka-server-7001/eureka-server-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-7002/eureka-server-7002.iml" filepath="$PROJECT_DIR$/eureka-server-7002/eureka-server-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-7003/eureka-server-7003.iml" filepath="$PROJECT_DIR$/eureka-server-7003/eureka-server-7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-eureka.iml" filepath="$PROJECT_DIR$/springcloud-config-eureka.iml" />
+    </modules>
+  </component>
+</project>
